@@ -1,0 +1,32 @@
+{
+  "name": "asterisk",
+  "version": "1.0.0",
+  "description": "Mask sensitive data and filter out some confidential information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint index.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KamilLelonek/asterisk.git"
+  },
+  "keywords": [
+    "asterisk",
+    "obfuscate",
+    "filter",
+    "mask",
+    "hide",
+    "secure"
+  ],
+  "author": "Kamil Lelonek <squixy.sln@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamilLelonek/asterisk/issues"
+  },
+  "homepage": "https://github.com/KamilLelonek/asterisk#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "jest": "^23.6.0"
+  }
+}
